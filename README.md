@@ -5,10 +5,10 @@
  <img src="Imagens/Cliente.png" alt="" srcset="">
 
  ## Performance das campanhas de Marketing
- ![Dashboard Performance](Imagens\Performance-das-campanhas-de-marketing.png)
+<img src="Imagens/Performance-das-campanhas-de-marketing.png" alt="" srcset="">
 
 ## Pontos de Venda
-![Dashboard Pontos de venda](Imagens\Pontos-de-Venda.png)
+<img src="Imagens/Pontos-de-Venda.png" alt="" srcset="">
 
 ## Visão Comportamento
-![Dashboard Comportamento](Imagens\Visão-Comportamento.png)
+<img src="Imagens/Visão-Comportamento.png" alt="" srcset="">
