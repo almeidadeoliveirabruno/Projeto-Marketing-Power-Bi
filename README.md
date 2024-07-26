@@ -2,7 +2,7 @@
  Projeto de analise de dados de marketing em Power BI desenvolvido no curso do Data Science Academy.
 
  ## Cliente
- ![Dashboard Cliente](Imagens\Cliente.png)
+ <img src="Imagens/Cliente.png" alt="" srcset="">
 
  ## Performance das campanhas de Marketing
  ![Dashboard Performance](Imagens\Performance-das-campanhas-de-marketing.png)
